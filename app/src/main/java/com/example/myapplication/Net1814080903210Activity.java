@@ -13,7 +13,7 @@ public class Net1814080903210Activity extends ComponentActivity {
         // 在布局中找到 ID 为 "helloTextView" 的 TextView
         TextView helloTextView = findViewById(R.id.helloTextView);
 
-        // 将 TextView 的文本设置为 "Hello World!"
-        helloTextView.setText("Hello World!");
+        // 将 TextView 的文本设置为 "Hello World!"1
+        helloTextView.setText("");
     }
 }
