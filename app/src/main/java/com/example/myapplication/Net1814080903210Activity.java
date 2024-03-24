@@ -14,6 +14,6 @@ public class Net1814080903210Activity extends ComponentActivity {
         TextView helloTextView = findViewById(R.id.helloTextView);
 
         // 将 TextView 的文本设置为 "Hello World!"1
-        helloTextView.setText("");
+        helloTextView.setText("Hello world");
     }
 }
