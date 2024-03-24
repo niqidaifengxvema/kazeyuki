@@ -1,10 +1,12 @@
-package com.example.myapplication;
+package com.example.myapplication.net202131123002013;
 
 import android.os.Bundle;
 import android.widget.TextView;
 import androidx.activity.ComponentActivity;
 
-public class Net1814080903210Activity extends ComponentActivity {
+import com.example.myapplication.R;
+
+public class Net202131123002013Activity extends ComponentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
