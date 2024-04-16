@@ -2,11 +2,11 @@
 {
   "ver":1.0,
   "se":{
-    "26":{"url":"https://github.com/niqidaifengxvema/kazeyuki.git/pon_f.wav"},
-    "28":{"url":"https://github.com/niqidaifengxvema/kazeyuki.git/kan_f.wav"},
-    "30":{"url":"https://github.com/niqidaifengxvema/kazeyuki.git/.wav"},
-    "32":{"url":"https://github.com/niqidaifengxvema/kazeyuki.git/reach_f.wav"},
-    "34":{"url":"https://github.com/niqidaifengxvema/kazeyuki.git/ron_f.wav"},
-    "36":{"url":"https://github.com/niqidaifengxvema/kazeyuki.git/tsumo_f.wav"}
+    "26":{"url":"https://github.com/niqidaifengxvema/kazeyuki/pon_f.wav"},
+    "28":{"url":"https://github.com/niqidaifengxvema/kazeyuki/kan_f.wav"},
+    "30":{"url":"https://github.com/niqidaifengxvema/kazeyuki/.wav"},
+    "32":{"url":"https://github.com/niqidaifengxvema/kazeyuki/reach_f.wav"},
+    "34":{"url":"https://github.com/niqidaifengxvema/kazeyuki/ron_f.wav"},
+    "36":{"url":"https://github.com/niqidaifengxvema/kazeyuki/tsumo_f.wav"}
   }
 }
